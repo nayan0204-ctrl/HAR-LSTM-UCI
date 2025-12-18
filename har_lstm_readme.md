@@ -152,7 +152,7 @@ jupyter notebook
 ## 👤 Author
 
 **Nayan Suhane**  
-MSc / BTech – Machine Learning & Signal Processing Enthusiast  
+M.tech IIT DELHI  
 
 ---
 
